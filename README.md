@@ -1,2 +1,0 @@
-# AddNumToPic
-Learn git
